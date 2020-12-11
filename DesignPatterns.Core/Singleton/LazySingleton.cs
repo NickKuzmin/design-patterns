@@ -2,7 +2,7 @@
 {
     class LazySingleton
     {
-        private static readonly System.Lazy<LazySingleton> _lazy = new System.Lazy<LazySingleton(() => new LazySingleton());
+        private static readonly System.Lazy<LazySingleton> _lazy = new System.Lazy<LazySingleton>(() => new LazySingleton());
 
         public static LazySingleton Instance
         {
