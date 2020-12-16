@@ -1,5 +1,7 @@
 # design-patterns
 
+https://github.com/anupavanm/csharp-design-patterns-for-humans
+
 https://refactoring.guru/ru/design-patterns
 
 https://metanit.com/sharp/patterns/1.1.php
