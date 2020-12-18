@@ -6,6 +6,8 @@ https://refactoring.guru/ru/design-patterns
 
 https://metanit.com/sharp/patterns/1.1.php
 
+https://habr.com/ru/post/210288/
+
 
 # Порождающие паттерны
 1. Абстрактная фабрика (Abstract Factory)
