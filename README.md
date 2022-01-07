@@ -1,8 +1,14 @@
 # design-patterns
 
+https://github.com/anupavanm/csharp-design-patterns-for-humans
+
 https://refactoring.guru/ru/design-patterns
 
 https://metanit.com/sharp/patterns/1.1.php
+
+https://habr.com/ru/post/210288/
+
+https://github.com/omandryk/gof-design-patterns
 
 
 # Порождающие паттерны
