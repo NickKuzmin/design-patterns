@@ -11,7 +11,7 @@ namespace DesignPatterns.Core.BehavioralPatterns.Command.CompositeCommand
 
         public BankAccount(int balance = 0)
         {
-            this._balance = balance;
+            _balance = balance;
         }
 
         public void Deposit(int amount)
