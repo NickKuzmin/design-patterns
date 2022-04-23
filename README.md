@@ -1,14 +1,15 @@
 # design-patterns
+- https://github.com/HOFFEND00N/Patterns-example
 
-https://github.com/anupavanm/csharp-design-patterns-for-humans
+- https://github.com/anupavanm/csharp-design-patterns-for-humans
 
-https://refactoring.guru/ru/design-patterns
+- https://refactoring.guru/ru/design-patterns
 
-https://metanit.com/sharp/patterns/1.1.php
+- https://metanit.com/sharp/patterns/1.1.php
 
-https://habr.com/ru/post/210288/
+- https://habr.com/ru/post/210288/
 
-https://github.com/omandryk/gof-design-patterns
+- https://github.com/omandryk/gof-design-patterns
 
 ------------------------------
 - https://github.com/NickKuzmin/tasks-for-interview/blob/main/DesignPatterns.md
